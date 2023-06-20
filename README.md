@@ -31,7 +31,8 @@ I do things others can't or don't know how to do
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f5806fb84e803a767dbf4fdd83b6563c3d5fa6623d49728516ed237d8e796842/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3336373041303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/f5806fb84e803a767dbf4fdd83b6563c3d5fa6623d49728516ed237d8e796842/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3336373041303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
 </p>
 
-
+### My certificates
+[My certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Socials
 
