@@ -35,4 +35,4 @@ I do things others can't or don't know how to do
 [My certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Socials
-[DevOps Life.ru](https://devopslife.ru/)
+[devopslife.ru](https://devopslife.ru/)
