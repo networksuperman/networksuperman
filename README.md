@@ -35,7 +35,4 @@ I do things others can't or don't know how to do
 [My certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/networksuperman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 [DevOps Life.ru](https://devopslife.ru/)
