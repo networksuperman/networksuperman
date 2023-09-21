@@ -32,7 +32,7 @@ I do things others can't or don't know how to do
 </p>
 
 ### My certificates
-[My certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
+[Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Socials
 [devopslife.ru](https://devopslife.ru/)
