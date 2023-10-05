@@ -36,3 +36,5 @@ I do things others can't or don't know how to do
 
 ### Socials
 [devopslife.ru](https://devopslife.ru/)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=networksuperman)](https://github.com/LordDashMe/github-contribution-stats/)
