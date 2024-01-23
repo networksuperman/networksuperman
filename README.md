@@ -21,6 +21,8 @@ I do things others can't or don't know how to do
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Socials
-[devopslife.ru](https://devopslife.ru/)
+[Site](https://devopslife.ru/)  
+
+[TG channel](https://t.me/devopslife)  
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=networksuperman)](https://github.com/LordDashMe/github-contribution-stats/)
