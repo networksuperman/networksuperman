@@ -31,3 +31,4 @@ I do things others can't or don't know how to do
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=networksuperman)](https://github.com/anuraghazra/github-readme-stats)  
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=networksuperman)](https://github.com/anuraghazra/github-readme-stats)  
