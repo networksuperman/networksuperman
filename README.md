@@ -7,7 +7,7 @@ If you need Network Engineer, System Administrator or DevOps Engineer, you are W
 I do things others can't or don't know how to do
 
 * 🌍  I'm based in Russia, Orel
-* 🧠  I'm learning DevOps engineer course on Netology
+* 🧠  I'm certified devops and network engineer
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
