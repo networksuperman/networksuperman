@@ -3,9 +3,6 @@ Hi. My name is Igor Panarin.
 If you need DevOps Engineer, you are Welcome!  
 
 ---
-
-I do things others can't or don't know how to do
-
 * 🌍  I'm based in Russia, Orel
 * 🧠  I'm certified devops and network engineer
 * 🤝  I'm open to collaborating on interesting projects
