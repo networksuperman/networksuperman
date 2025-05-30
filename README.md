@@ -1,6 +1,6 @@
 Hi. My name is Igor Panarin.  
 
-If you need Network Engineer, System Administrator or DevOps Engineer, you are Welcome!  
+If you need DevOps Engineer, you are Welcome!  
 
 ---
 
